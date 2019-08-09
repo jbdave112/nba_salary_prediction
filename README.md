@@ -55,14 +55,14 @@ The Chicago Bulls and Orlando Magic came in fourth and fifth respectively. Both 
 
 | Player | Team | Projected Value | Contract Avg. | Net Value |
 | :----: | :---: | :---: | :---: | :---: |
-| Klay Thompson | Golden State Warriors | $22.2m | $37.98m | -$15.7m |
+| Klay Thompson | Golden State Warriors | $22.2m | $38.0m | -$15.7m |
 | Khris Middleton | Milwaukee Bucks | 20.5 | 35.5 | -15.0 |
 | Tobias Harris | Philadelphia 76ers | 22.7 | 36.0 | -13.3 |
 | Terry Rozier | Boston Celtics | 7.3 | 18.9 | -11.6 |
 | Jonas Valanciunas | Memphis Grizzlies | 7.6 | 15.0 | -7.4 |
-| Jimmy Butler | Philadelphia 76ers | 29.0 | 35.175 | -6.2 |
-| Dewayne Dedmon | Sacramento Kings | 7.2 | 13.33 | -6.1 |
-| Bobby Portis | New York Knicks | 9.3 | 15.375 | -6.0 |
+| Jimmy Butler | Philadelphia 76ers | 29.0 | 35.2 | -6.2 |
+| Dewayne Dedmon | Sacramento Kings | 7.2 | 13.3 | -6.1 |
+| Bobby Portis | New York Knicks | 9.3 | 15.4 | -6.0 |
 | Kevin Durant | Brooklyn Nets | 35.5 | 41.1 | -5.6 |
 | Marcus Morris | New York Knicks | 10.1 | 15.0 | -4.9 |
 
