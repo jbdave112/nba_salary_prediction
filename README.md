@@ -5,12 +5,13 @@ The summer of 2019 saw a huge overhaul of players. With so much money handed out
 Data was taken from the advanced stats and points per 100 possessions pages from basketball-reference.com for the 2017 and 2018 free agent class.
 
 After testing lasso regression, ridge regression, random forest, as well as, various ensemble techniques, the voting regressor performed the best out of all tested models. The voting regressor model used a combination of basic linear regression, random forest, lasso regression, and ridge regression. 
+Average Salary is calculated by dividing the total value of a contract by the length of the contract. 
 
 The best values of free agency according to the model were high quality role players who signed team friendly contracts.
 
 ### Top 10 Values
 
-| Player | Team | Projected Value | Contract Avg. | Net Value |
+| Player | Team | Projected Avg. Salary | Actual Avg. Salary | Net Value |
 | :----: | :---: | :---: | :---: | :---: |
 | Kevon Looney | Golden State Warriors | $15.0m | $5.0m | $10.0m |
 | Wesley Matthews | Milwaukee Bucks | 11.7 | 2.6 | 9.0 |
@@ -25,7 +26,7 @@ The best values of free agency according to the model were high quality role pla
 
 ### Teams that found the best value
 
-| Team | Net Value|
+| Team | Total Net Value|
 | :---: | :---: |
 | L.A. Lakers | $25.3m |
 | Utah Jazz | 20.4 |
@@ -53,7 +54,7 @@ The Chicago Bulls and Orlando Magic came in fourth and fifth respectively. Both 
 
 ### Top 10 most overpaid 
 
-| Player | Team | Projected Value | Contract Avg. | Net Value |
+| Player | Team | Projected Avg. Salary | Actual Avg. Salary | Net Value |
 | :----: | :---: | :---: | :---: | :---: |
 | Klay Thompson | Golden State Warriors | $22.2m | $38.0m | -$15.7m |
 | Khris Middleton | Milwaukee Bucks | 20.5 | 35.5 | -15.0 |
