@@ -33,15 +33,24 @@ The best values of free agency according to the model were high quality role pla
 | Chicago Bulls | 13.0 |
 | Orlando Magic | 11.4 |
 
-The L.A. Lakers had a whirlwind of an offseason with most of their contracts expiring, and oh yeah, trading for Anthony Davis. The front office which has been criticized, and rightly so, for the team that was built around Lebron James last year. Based on the data they seem to have learned from their mistakes.
+#### L.A. Lakers a Good Front Office?
+
+The L.A. Lakers had a whirlwind of an offseason with most of their contracts expiring, and oh yeah, trading for Anthony Davis. The front office which has been criticized, and rightly so, for the team that was built around Lebron James last year appear to have learned from their mistakes.
 They paired Lebron with another top 5 player, in AD, and surrounded the dynamic duo with shooting and value contracts like JaVale McGee.
+
+#### Smooth Jazz
 
 Another team that many experts see as a contender are the Utah Jazz. The Jazz have drastically improved their offense with the additions of Mike Conley and Bojan Bogdanovic, and according to the model their signings of Emmanuel Mudiay and Jeff Green were great values. Can Utah's shrewd signings overcome their lack of star power?
 
-Coming in third are the Boston Celtics. The big addition for the Celts was the signing of Kemba Walker. There was a lot of discussion about whether he is worth a max. According to the model Kemba Walker was, indeed, worth the contract.
+#### Ainge at it Again
+
+Despite losing Kyrie Irving and Al Horford, Danny Ainge was able to spend efficiently and should have the Celtics back in the top of the conference. The big addition for the Celts was the signing of Kemba Walker. There was a lot of discussion about whether he is worth a max. According to the model Kemba Walker was, indeed, worth the contract.
 The biggest bargain for the Celtics, however, was Enes Kanter who received $7.7m less than the model predicted his market value to be.
 
+#### Mid-Market Magic
+
 The Chicago Bulls and Orlando Magic came in fourth and fifth respectively. Both signing players at a great value. The biggest two being Thaddeus Young and Nikola Vucevic.
+
 
 The highest overpays according to the model were B Tier star players who were given max contracts. 
 
@@ -70,9 +79,15 @@ The highest overpays according to the model were B Tier star players who were gi
 | Memphis Grizzlies | -8.1 |
 | Miami Heat | -6.2 |
 
+#### The Bounce
+
 Jimmy Butter and Tobias Harris, bounced by Kawhi Leonard and the Raptors, both received max contracts. Harris stayed with the Sixers while Butler joined the Heat. Both contracts were judged as negative values by the model.
 
+
+#### Big Men, Big Contracts
 Memphis and Sacramento signed big men in Dewayne Dedmon and Jonas Valanciunas to lucrative contracts that the model deemed to be overpays.
 
+
+#### Rozier-Colored Glasses
 And then for whatever reason Michael Jordan and the Charlotte Hornets thought it was a good idea to give Terry Rozier a contract worth 57 million dollars.
 
