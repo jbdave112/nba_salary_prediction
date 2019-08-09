@@ -1,4 +1,4 @@
-## NBA Free Agency Analysis 
+## 2019 NBA Free Agency Analysis 
 
 The summer of 2019 saw a huge overhaul of players. With so much money handed out, this offseason may be a good indicator of which teams are set up to succeed and which aren't. To measure the prudence of these contracts I tested different regression models to create a market value for each free agent. 
 
