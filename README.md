@@ -54,7 +54,7 @@ The Chicago Bulls and Orlando Magic came in fourth and fifth respectively. Both 
 
 ### Top 10 most overpaid 
 
-| Player | Team | Projected Avg. Salary | Actual Avg. Salary | Net Value |
+| Player | Team | Projected Avg. Salary | Actual Avg. Salary | Total Net Value |
 | :----: | :---: | :---: | :---: | :---: |
 | Klay Thompson | Golden State Warriors | $22.2m | $38.0m | -$15.7m |
 | Khris Middleton | Milwaukee Bucks | 20.5 | 35.5 | -15.0 |
