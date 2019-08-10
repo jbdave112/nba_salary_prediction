@@ -4,7 +4,7 @@ The summer of 2019 saw a huge overhaul of players. With so much money handed out
 
 Data was taken from the advanced stats and points per 100 possessions pages from basketball-reference.com for the 2017 and 2018 free agent class.
 
-After testing lasso regression, ridge regression, random forest, as well as, various ensemble techniques, the voting regressor performed the best out of all tested models. The voting regressor model used a combination of basic linear regression, random forest, lasso regression, and ridge regression. 
+After testing lasso regression, ridge regression, random forest, as well as, various ensemble techniques. The voting regressor performed the best out of all tested models. The voting regressor model used a combination of basic linear regression, random forest, lasso regression, and ridge regression. 
 Average Salary is calculated by dividing the total value of a contract by the length of the contract. 
 
 
@@ -76,8 +76,8 @@ The Chicago Bulls and Orlando Magic came in fourth and fifth respectively. Both 
 | Memphis Grizzlies | -8.1 |
 | Miami Heat | -6.2 |
 
-#### Tier 3 Stars
-The highest overpays according to the model were lower Tier star players, like Klay Thompson, Khris Middleton, and Tobias Harris, who were given max contracts. 
+#### Low Tier Stars 
+The highest overpays according to the model were lower tier star players, like Klay Thompson, Khris Middleton, and Tobias Harris, who were given max contracts. 
 
 #### The Bounce
 
