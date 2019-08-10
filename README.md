@@ -7,7 +7,6 @@ Data was taken from the advanced stats and points per 100 possessions pages from
 After testing lasso regression, ridge regression, random forest, as well as, various ensemble techniques, the voting regressor performed the best out of all tested models. The voting regressor model used a combination of basic linear regression, random forest, lasso regression, and ridge regression. 
 Average Salary is calculated by dividing the total value of a contract by the length of the contract. 
 
-The best values of free agency according to the model were high quality role players who signed team friendly contracts.
 
 ### Top 10 Values
 
@@ -77,7 +76,7 @@ The Chicago Bulls and Orlando Magic came in fourth and fifth respectively. Both 
 | Memphis Grizzlies | -8.1 |
 | Miami Heat | -6.2 |
 
-#### Tier 3 stars
+#### Tier 3 Stars
 The highest overpays according to the model were lower Tier star players, like Klay Thompson, Khris Middleton, and Tobias Harris, who were given max contracts. 
 
 #### The Bounce
@@ -86,7 +85,7 @@ Jimmy Butter and Tobias Harris, bounced by Kawhi Leonard and the Raptors, both r
 
 
 #### Big Men, Big Contracts
-Memphis and Sacramento signed big men in Dewayne Dedmon and Jonas Valanciunas to lucrative contracts that the model deemed to be overpays.
+Sacramento and Memphis signed big men Dewayne Dedmon and Jonas Valanciunas respectively to lucrative contracts that the model deemed to be overpays.
 
 
 #### Rozier-Colored Glasses
