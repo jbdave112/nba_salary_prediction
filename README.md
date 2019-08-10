@@ -68,7 +68,7 @@ The Chicago Bulls and Orlando Magic came in fourth and fifth respectively. Both 
 
 ### Teams that found the least value
 
-| Team | Net Value|
+| Team | Total Net Value |
 | :---: | :---: |
 | Philadelphia 76ers | -$19.4m |
 | Sacramento Kings | -12.6 |
